@@ -1,0 +1,24 @@
+.square {
+    top: 25px;
+    left: 25px;
+    width: 120px;
+    height: 120px;
+    background: #000;
+    position: relative;
+}
+.square1 {
+	top: 5px;
+	left: 125px;
+	width: 120px;
+	height: 120PX;
+	background: #F44336;
+	position: relative;
+}
+.square2 {
+	top: -15px;
+	left: 225px;
+	width: 120px;
+	height: 120px;
+	background: #000;
+	position: relative;
+}
